@@ -1,4 +1,4 @@
-xAPI Logger plugin for Unity
+<h1>xAPI Logger plugin for Unity</h1>
 
 For detailed documentation see https://adamburich.github.io/SGTAPLogger/
 
