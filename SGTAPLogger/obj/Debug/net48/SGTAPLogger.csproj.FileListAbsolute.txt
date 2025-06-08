@@ -1,0 +1,13 @@
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\bin\Debug\net48\SGTAPLogger.dll
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\bin\Debug\net48\SGTAPLogger.pdb
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\bin\Debug\net48\Newtonsoft.Json.dll
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\bin\Debug\net48\TinCan.dll
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.csproj.AssemblyReference.cache
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.AssemblyInfoInputs.cache
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.AssemblyInfo.cs
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.csproj.CoreCompileInputs.cache
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.sourcelink.json
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLog.AE824019.Up2Date
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.dll
+D:\Documents\Git\Unity-xAPI-Wrapper\SGTAPLogger\obj\Debug\net48\SGTAPLogger.pdb

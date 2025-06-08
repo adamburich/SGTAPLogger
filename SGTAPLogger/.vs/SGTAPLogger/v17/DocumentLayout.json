@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D40B67E-0C4C-A0C1-DDDE-E2AE719DC619}|..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaploggertest\\src\\apihandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaplogger\\src\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|solutionrelative:src\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaplogger\\src\\xcall\\xcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|solutionrelative:src\\xcall\\xcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D40B67E-0C4C-A0C1-DDDE-E2AE719DC619}|..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaploggertest\\sgtaploggertest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D40B67E-0C4C-A0C1-DDDE-E2AE719DC619}|..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaploggertest\\sgtaploggertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaplogger\\src\\subtypes\\mcqsubmits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|solutionrelative:src\\subtypes\\mcqsubmits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaplogger\\src\\subtypes\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|solutionrelative:src\\subtypes\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaplogger\\src\\subtypes\\dragdropquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|solutionrelative:src\\subtypes\\dragdropquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|d:\\documents\\git\\unity-xapi-wrapper\\sgtaplogger\\src\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A92C11-8528-4EBE-92B7-10AB9E6ED049}|SGTAPLogger.csproj|solutionrelative:src\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Git\\Unity-xAPI-Wrapper\\CerebrumLoggerTests\\Src\\APIHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SGTAPLoggerTest",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "RelativeDocumentMoniker": "..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "RelativeToolTip": "..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T20:29:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SGTAPLoggerTest",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "RelativeDocumentMoniker": "..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "RelativeToolTip": "..\\SGTAPLoggerTest\\SGTAPLoggerTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T20:29:06.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIHandlerTests.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLoggerTest\\Src\\APIHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\SGTAPLoggerTest\\Src\\APIHandlerTests.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLoggerTest\\Src\\APIHandlerTests.cs",
+              "RelativeToolTip": "..\\SGTAPLoggerTest\\Src\\APIHandlerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:25:26.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xCall.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\xCall\\xCall.cs",
+              "RelativeDocumentMoniker": "Src\\xCall\\xCall.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\xCall\\xCall.cs",
+              "RelativeToolTip": "Src\\xCall\\xCall.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAD4v+MAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:22:33.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\APIHandler.cs",
+              "RelativeDocumentMoniker": "Src\\APIHandler.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\APIHandler.cs",
+              "RelativeToolTip": "Src\\APIHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:22:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MCQSubmits.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\SubTypes\\MCQSubmits.cs",
+              "RelativeDocumentMoniker": "Src\\SubTypes\\MCQSubmits.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\SubTypes\\MCQSubmits.cs",
+              "RelativeToolTip": "Src\\SubTypes\\MCQSubmits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:02:46.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MCQ.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\SubTypes\\MCQ.cs",
+              "RelativeDocumentMoniker": "Src\\SubTypes\\MCQ.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\SubTypes\\MCQ.cs",
+              "RelativeToolTip": "Src\\SubTypes\\MCQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:02:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DragDropQuestion.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\SubTypes\\DragDropQuestion.cs",
+              "RelativeDocumentMoniker": "Src\\SubTypes\\DragDropQuestion.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\SubTypes\\DragDropQuestion.cs",
+              "RelativeToolTip": "Src\\SubTypes\\DragDropQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:02:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APIHandlerTests.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\CerebrumLoggerTests\\Src\\APIHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\CerebrumLoggerTests\\Src\\APIHandlerTests.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\CerebrumLoggerTests\\Src\\APIHandlerTests.cs",
+              "RelativeToolTip": "..\\CerebrumLoggerTests\\Src\\APIHandlerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:01:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\Logger.cs",
+              "RelativeDocumentMoniker": "Src\\Logger.cs",
+              "ToolTip": "D:\\Documents\\Git\\Unity-xAPI-Wrapper\\SGTAPLogger\\Src\\Logger.cs",
+              "RelativeToolTip": "Src\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:46:50.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
